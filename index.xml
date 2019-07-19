@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WOTN Devlog</title>
+    <link>/</link>
+    <description>Recent content on WOTN Devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>/post/hello/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello/</guid>
+      <description>This actually happened. I&amp;rsquo;ve created devlog for my game!
+ I&amp;rsquo;m talking to an imaginary person.
+ My name is Morok. I will post updates about game on this blog. If you are interested, please read about section and stay tuned for future posts.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome! I&amp;rsquo;m Morok! And I&amp;rsquo;m currently developing Tactical RPG, WOTN (World of The Numbers). It&amp;rsquo;s not final title becouse it&amp;rsquo;s pretty lame. The game is based on 3 main ideas: Battle, Leveling, Realistic Hardcore
+Battle Battle is turn-based. Inspiration: Fire Emblem, Final Fantasy Tactics
+Leveling No predefined classes. Combine any Skills and Attributes. Inspiration: Dark Souls
+Realistic Hardcore Combination of realism (wounds slows you down, etc.) and hardcore (you can&amp;rsquo;t carry items if you haven&amp;rsquo;t a bag).</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/showcase/</guid>
+      <description>There are nothing to show yet&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
