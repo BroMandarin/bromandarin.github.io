@@ -13,6 +13,18 @@
     
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome! I&amp;rsquo;m Morok! And I&amp;rsquo;m currently developing Tactical RPG, WOTN (World of The Numbers). It&amp;rsquo;s not final title becouse it&amp;rsquo;s pretty lame. The game is based on 3 main ideas: Battle, Leveling, Realistic Hardcore
+Battle Battle is turn-based. Inspiration: Fire Emblem, Final Fantasy Tactics
+Leveling No predefined classes. Combine any Skills and Attributes. Inspiration: Dark Souls
+Realistic Hardcore Combination of realism (wounds slows you down, etc.) and hardcore (you can&amp;rsquo;t carry items if you haven&amp;rsquo;t a bag).</description>
+    </item>
+    
+    <item>
       <title>Hello Friend</title>
       <link>/post/hello/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
@@ -24,15 +36,12 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Welcome! I&amp;rsquo;m Morok! And I&amp;rsquo;m currently developing Tactical RPG, WOTN (World of The Numbers). It&amp;rsquo;s not final title becouse it&amp;rsquo;s pretty lame. The game is based on 3 main ideas: Battle, Leveling, Realistic Hardcore
-Battle Battle is turn-based. Inspiration: Fire Emblem, Final Fantasy Tactics
-Leveling No predefined classes. Combine any Skills and Attributes. Inspiration: Dark Souls
-Realistic Hardcore Combination of realism (wounds slows you down, etc.) and hardcore (you can&amp;rsquo;t carry items if you haven&amp;rsquo;t a bag).</description>
+      <guid>/showcase/</guid>
+      <description>There are nothing to show yet&amp;hellip;</description>
     </item>
     
     <item>
@@ -42,15 +51,6 @@ Realistic Hardcore Combination of realism (wounds slows you down, etc.) and hard
       
       <guid>/archive/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>/showcase/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/showcase/</guid>
-      <description>There are nothing to show yet&amp;hellip;</description>
     </item>
     
   </channel>

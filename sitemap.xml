@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/hello/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url>
@@ -11,6 +16,11 @@
     <loc>/post/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/showcase/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -32,20 +42,12 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
     <loc>/archive/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/showcase/</loc>
   </url>
   
 </urlset>
