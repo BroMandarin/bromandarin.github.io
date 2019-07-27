@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morok</copyright>
-    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Start of the development</title>
+      <link>/post/development1/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/development1/</guid>
+      <description>It&amp;rsquo;s time to start! To develop the game I use:
+ Unity Visual Studio Paint.net  For 3D models I will use ProBuilder.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -25,23 +35,22 @@ Realistic Hardcore Combination of realism (wounds slows you down, etc.) and hard
     </item>
     
     <item>
-      <title>Hello Friend</title>
-      <link>/post/hello/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hello/</guid>
-      <description>This actually happened. I&amp;rsquo;ve created devlog for my game!
- I&amp;rsquo;m talking to an imaginary person.
- My name is Morok. I will post updates about game on this blog. If you are interested, please read about section and stay tuned for future posts.</description>
-    </item>
-    
-    <item>
       <title>Showcase</title>
       <link>/showcase/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/showcase/</guid>
       <description>There are nothing to show yet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>/post/welcome/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>This actually happened. I&amp;rsquo;ve created devlog for my game!
+My name is Morok (sometimes I use BroMandarin). I will post updates about game development on this blog. If you are interested, please read the about section and stay tuned for future posts!</description>
     </item>
     
     <item>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on WOTN Devlog</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on WOTN Devlog</description>
+    <title>Development on WOTN Devlog</title>
+    <link>/tags/development/</link>
+    <description>Recent content in Development on WOTN Devlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morok</copyright>
     <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>/post/development1/</guid>
       <description>It&amp;rsquo;s time to start! To develop the game I use:
  Unity Visual Studio Paint.net  For 3D models I will use ProBuilder.</description>
-    </item>
-    
-    <item>
-      <title>Welcome!</title>
-      <link>/post/welcome/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/welcome/</guid>
-      <description>This actually happened. I&amp;rsquo;ve created devlog for my game!
-My name is Morok (sometimes I use BroMandarin). I will post updates about game development on this blog. If you are interested, please read the about section and stay tuned for future posts!</description>
     </item>
     
   </channel>

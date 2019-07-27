@@ -13,14 +13,13 @@
     
     
     <item>
-      <title>Hello Friend</title>
-      <link>/post/hello/</link>
+      <title>Welcome!</title>
+      <link>/post/welcome/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello/</guid>
+      <guid>/post/welcome/</guid>
       <description>This actually happened. I&amp;rsquo;ve created devlog for my game!
- I&amp;rsquo;m talking to an imaginary person.
- My name is Morok. I will post updates about game on this blog. If you are interested, please read about section and stay tuned for future posts.</description>
+My name is Morok (sometimes I use BroMandarin). I will post updates about game development on this blog. If you are interested, please read the about section and stay tuned for future posts!</description>
     </item>
     
   </channel>
