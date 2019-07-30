@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morok</copyright>
-    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Character Shader</title>
+      <link>/post/character_shader/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/character_shader/</guid>
+      <description>This shader takes (currently) 3 textures and blends them into one.
+Can set alpha of texture.
+Can make character a ghost using emission.</description>
+    </item>
     
     <item>
       <title>Start of the development</title>
@@ -29,7 +40,7 @@
       
       <guid>/about/</guid>
       <description>Welcome! I&amp;rsquo;m Morok! And I&amp;rsquo;m currently developing Tactical RPG, WOTN (World of The Numbers). It&amp;rsquo;s not final title becouse it&amp;rsquo;s pretty lame. The game is based on 3 main ideas: Battle, Leveling, Realistic Hardcore
-Battle Battle is turn-based. Inspiration: Fire Emblem, Final Fantasy Tactics
+Battle Battle is turn-based. Inspiration: Fire Emblem, Final Fantasy Tactics, Fallout 1&amp;frasl;2
 Leveling No predefined classes. Combine any Skills and Attributes. Inspiration: Dark Souls
 Realistic Hardcore Combination of realism (wounds slows you down, etc.) and hardcore (you can&amp;rsquo;t carry items if you haven&amp;rsquo;t a bag).</description>
     </item>

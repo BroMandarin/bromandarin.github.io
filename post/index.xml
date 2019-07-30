@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morok</copyright>
-    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Character Shader</title>
+      <link>/post/character_shader/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/character_shader/</guid>
+      <description>This shader takes (currently) 3 textures and blends them into one.
+Can set alpha of texture.
+Can make character a ghost using emission.</description>
+    </item>
     
     <item>
       <title>Start of the development</title>
